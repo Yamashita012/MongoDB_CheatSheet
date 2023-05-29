@@ -15,6 +15,6 @@ This is a MongoDB cheatsheet mainly for beginners.
 
 6.  *Atomic Operations:* MongoDB provides atomicity at the document level, ensuring that each write operation is atomic within a single document. This means that updates to a single document are either fully applied or not applied at all.
 
-7.  *Scalability:* Collections can scale horizontally across multiple servers or instances, providing the ability to handle large amounts of data by distributing it across different shards or nodes.
+7.  *Scalability:* - Collections can scale horizontally across multiple servers or instances, providing the ability to handle large amounts of data by distributing it across different shards or nodes.
 
-###To interact with a collection in MongoDB, you can use various operations such as inserting documents, querying data, updating documents, deleting documents, and performing aggregations. These operations allow you to manipulate and retrieve data from collections based on your application requirements.
+### To interact with a collection in MongoDB, you can use various operations such as inserting documents, querying data, updating documents, deleting documents, and performing aggregations. These operations allow you to manipulate and retrieve data from collections based on your application requirements.
