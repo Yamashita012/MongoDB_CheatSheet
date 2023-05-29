@@ -18,3 +18,5 @@ This is a MongoDB cheatsheet mainly for beginners.
 7.  *Scalability:* - Collections can scale horizontally across multiple servers or instances, providing the ability to handle large amounts of data by distributing it across different shards or nodes.
 
 ### To interact with a collection in MongoDB, you can use various operations such as inserting documents, querying data, updating documents, deleting documents, and performing aggregations. These operations allow you to manipulate and retrieve data from collections based on your application requirements.
+
+## BEING FAMILIAR WITH THE JAVASCRIPT SYNTAX AND THE SQL WILL DEFINITLEY REDUCE THE LEARNING CURVE DRASTICALLY!!
