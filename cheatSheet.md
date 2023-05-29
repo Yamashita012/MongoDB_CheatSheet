@@ -2,7 +2,7 @@
 
 **Connecting to MongoDB**:
 ```bash
-mongo
+mongosh
 ```
 
 **Switching to a Database**:
